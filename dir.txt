@@ -1,1 +1,16 @@
-jhfsgfhg.ffflf
+jhfsgfhg.ffflf Volume in drive C is windows
+ Volume Serial Number is 16F1-6A94
+
+ Directory of C:\
+
+02/03/2020  12:53    <DIR>          AMD
+11/11/2020  19:00    <DIR>          aziba
+16/06/2020  21:30    <DIR>          DJP
+16/05/2020  18:06    <DIR>          PerfLogs
+11/11/2020  15:42    <DIR>          Program Files
+11/11/2020  15:42    <DIR>          Program Files (x86)
+11/11/2020  15:34    <DIR>          tools
+28/06/2020  16:57    <DIR>          Users
+11/11/2020  15:42    <DIR>          Windows
+               0 File(s)              0 bytes
+               9 Dir(s)  45.029.654.528 bytes free
